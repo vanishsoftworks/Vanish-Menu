@@ -1,0 +1,307 @@
+   Vanish Menu V1.0
+--------------------------
+
+▸ ROOM
+  › Create Public Room
+  › Create Private Room
+  › Join Last Room
+  › Join Random Public
+  › Join Menu Room
+  › Reconnect
+  › Cancel Reconnect
+  › Disconnect
+  › Connect US / US West / EU
+
+▸ MOVEMENT
+  › Platforms
+  › Fly
+  › Dash
+  › Reverse Velocity
+  › Trigger Fly
+  › Noclip Fly
+  › Noclip
+  › Ghost Monkey
+  › Invisible
+  › Speed Boost
+  › Grip Speed Boost
+  › No Tag Freeze
+  › Pull Mod
+  › Spider Man
+  › Ender Pearl
+  › Wall Walk
+  › Pc Fly
+  › Pc Button Click
+
+▸ TAG
+  › Tag All
+  › Tag Gun
+  › Tag Self
+  › Tag Aura
+  › Grip Tag Aura
+  › Tag Reach
+  › Abuse Lobby
+
+▸ WORLD
+  › Disable Wind Barriers
+  › No Slippery Surfaces
+  › Disable Quit Box
+
+▸ TELEPORTS
+  › Forest  •  City  •  Canyons  •  Clouds  •  Caves
+  › Beach  •  Mountains  •  Basement  •  Metropolis
+  › Arcade  •  Critters  •  Skate Park  •  Monke Blocks Map
+  › Rotating  •  Bayou  •  Virtual Stump  •  Lava Forest
+  › Teleport to Random
+  › Teleport Gun
+  
+  ▸ SAFETY
+  › Anti Kick
+  › Anti RPC Ban
+  › Anti Report
+  › Oculus Menu
+  › No Finger Movement
+  › Bypass Checkers
+  › Bypass Automod
+  › Anti AFK
+  › Anti Moderator
+  › Anti Content Creator
+  › Name Spoof
+  › Spoof Leaderboard Name
+  › Remove Snowball Knockback
+  › Color Spoof
+  › FPS Spoof
+  › Ping Spoof
+  › Spoof Platform
+  › Anti Grab App Quit
+  › Panic
+
+▸ VISUAL
+  › Chams
+  › Bone ESP
+  › Capsule ESP
+  › Beacon ESP
+  › VRChat Nametags
+  › Hidden on Camera
+  › Name Tags
+  › Platform Tags
+  › Creation Tags
+  › FPS Tags
+  › Jump Preds
+  › FPS Boost
+  › Remove Leaves
+  › Clear Weather
+  › Morning Time  •  Day Time  •  Evening Time  •  Night Time
+
+▸ MACROS
+  › Record
+  › Open Macros Folder
+  › Reload Macros
+  › Macro Framestepper
+  › Midpoint Macros
+  › Direction Based Macros
+  › Change / Decrease Macro Playback Range
+  › Enable All Macros
+  › Disable All Macros
+  › (your saved macros show here)
+
+▸ PLAYERS  —  per player
+  › Teleport to Player
+  › Spectate
+  › Mute
+  › Report
+  › Lag Player
+  › Chase Player
+  › Mirror Player
+  › Annoy Player
+  › Bully Player
+  › Fling Player
+  › Mod Checker
+  
+  ▸ FUN
+  › Boop
+  › Upside Down Head
+  › Spaz Body
+  › Body Tracking
+  › Spider Crawl
+  › Flip
+  › Lay On Stomach
+  › Grab Rig
+  › Steam Mic
+  › Copy Movement Gun
+  › Copy All
+  › Annoy Gun
+  › Chase Gun
+  › Orbit Gun
+  › Mirror Gun
+  › Mirror All
+  › Punch Mod
+  › Loud Hand Taps
+  › Silent Hand Taps
+  › Jman Sound
+  › Squeak Sound
+  › Water Bender
+  › Water Gun
+  › Water Bender Aura
+  › Water Bender Orbit
+  › Air Swim
+  › Fast Swim
+  › Solid Water
+  › Spawn Hoverboard
+  › Hoverboard Spam
+  › Orbit Hoverboards
+  › Hoverboard Gun
+  › Long Arms
+
+▸ OVERPOWERED
+  › Lag Type
+  › Lag Gun
+  › Lag All
+  › Deafen All
+  › Deafen Gun
+  › Annoy All
+  › Bully All
+  › Barrel Punch
+  › Barrel Gun
+  › Barrel Fling Gun / All
+  › Barrel Push Gun / All
+  › Barrel Bring Gun / All
+  › Barrel Kick Gun / All
+  › Barrel Crash Gun / All
+  › Barrel Obliterate Gun / All
+  › Barrel City Kick Gun / All
+
+▸ MASTER
+  › Grey Screen All / Gun
+  › Spaz Screen All / Gun
+  › Virtual Stump Crash Gun / All
+  › Untag Self / All / Gun
+  › Infection To Tag
+  › Tag To Infection
+  › Spam Tag Self / Gun / All
+  › Tag Lag Gun
+  › Anti Tag
+  › Rock Gun  •  Aura  •  On Touch  •  All  •  Self
+  › Slow Gun  •  Aura  •  On Touch  •  All  •  Self
+  › Vibrate Gun  •  Aura  •  On Touch  •  All  •  Self
+  
+▸ SUPER INFECTION
+  › Unlock All Gadgets
+  › Unlock Full Tree
+  › Infinite Resources
+  › Give All Resources
+  › Add Tech Points
+  › Complete All Quests
+  › Complete & Claim Quests
+  › Max Bonus Points
+  › Max Stashed Quests
+  › Claim All Terminals
+  › No Blaster Cooldown
+  › Max Charge
+  › Fast Charge
+  › No Dash Cooldown
+  › Infinite Platforms
+  › Long Extendo Stilts
+  › Clear Exclusion Zones
+  › Knockback All
+  › Launch All
+  › Teleport Gadgets To Me
+  › Spawn Unlocked Gadgets
+  › Delete All Gadgets
+  › Spawn Yoyo / Platforms / Charge Blaster / Mega Blaster / Long Arms / Extendo Stilts / Wrist Jets
+  › Yoyo Gun
+  › Platform Gun
+  › Bouncy Platform Gun
+  › Charge / Mega Charge / Weak / Long Blaster Gun
+  › Blast Lobber Gun
+  › Stilt Extendo / Fixed / Long / Short Gun
+  › Turkey Gun
+  › Propellor Gun
+  › Weird Gear Gun
+  › Strange Wood Gun
+  › Bouncy Sand Gun
+  › Floppy Metal Gun
+  › Vibrating Spring Gun
+  › Monke Idol Gun
+  › Random Gadgets Gun
+  › Gadget Aura
+  › Gadget Rain
+  › Gadget Sphere Small / Medium / Large
+  › Gadget Hollow Sphere Small / Medium / Large
+  › Flashing Sphere
+  › Laser Eyes
+  › Crash All / Gun
+  › Steal Gadget Gun
+  › Knockback Gun
+  › Float Gun
+
+▸ GHOST REACTOR
+  Grip + Gun spawners
+  › Gate  •  Core  •  Slime  •  Tool
+  › Flower  •  Crate  •  Barrel
+  › Bug Enemy  •  Large Bug Enemy
+  › Ranged Enemy  •  Chaser Enemy
+  › Armored Ranged  •  Armored Chaser
+  › Random Entity
+  Other
+  › Rain Entities
+  › Entity Aura
+  › Entity Fountain
+  › Text Gun
+  › Draw Gun
+  › Destroy Entity Gun
+  › Freeze Gun / All
+  › Crash Gun / All
+  
+  ▸ MONKE BLOCKS
+  › Get / Remove Builder Watch
+  › Noclip Building
+  › Overlap Building
+  › Small Building
+  › Multi Grab
+  › Block Size Toggle
+  › Unlimited Building
+  › Zero Gravity Blocks
+  › Random Block Type
+  › No Random Position / Rotation Grab
+  › Change Block Delay
+  › Grab All Nearby / Selected Blocks
+  › Massive Block (M)
+  › Select Block Gun
+  › Copy Block Info Gun
+  › Building Block Browser
+  › Grab Building Blocks
+  › Building Block Minigun
+  › Building Block Gun
+  › Orbit / Rain / Fountain / Aura
+  › Building Block Text Gun
+  › Place / Destroy Building Block Gun
+  › Destroy Building Blocks
+  › Save / Load Builder Table Data
+  › Block Anti Report (M)
+  › Block Draw / Build / Tower Gun (M)
+  › Block Freeze Gun / All (M)
+  › Block Float Gun (M)
+  › Building Block Fling / Bring / Push Gun (M)
+  › Building Block Crash Gun / All (M)
+
+▸ SETTINGS
+  Menu
+  › Right Hand Menu  •  Menu Theme  •  Change Aim Type
+  › Notifications  •  Autosave  •  Disconnect Button
+  › Serversided Button Sounds  •  Change Button Sound / Volume
+  Movement
+  › Change Platform Type / Shape
+  › Non-Sticky Platforms
+  › Change Fly Speed  •  Speed Boost Amount  •  Pull Mod Power
+  › Left Hand Wall Walk  •  Change Wall Walk Strength
+  Tag
+  › Fast Tag  •  Change Tag Aura Range  •  Change Tag Reach Distance
+  Safety
+  › Change Anti Report Distance  •  Visualize Anti Report
+  › Change FPS / Ping Spoof Value  •  Change Spoof Platform
+  Overpowered
+  › Change Lag Power  •  Change Lag Type
+  Fun
+  › Change Fast Swim Speed
+  
+  
