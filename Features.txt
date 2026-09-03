@@ -156,6 +156,7 @@
   › Lag Type
   › Lag Gun
   › Lag All
+  › Mute All
   › Deafen All
   › Deafen Gun
   › Annoy All
