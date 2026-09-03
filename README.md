@@ -1,2 +1,3 @@
 # Vanish-Menu
-This is a open soucre gorilla tag mod menu made by @lowktermed
+
+Best gorila tag mod menu, has over 70+ undetected & powerful mods
