@@ -2,7 +2,7 @@
   
 # Vanish Menu
 
-Best gorila tag mod menu, has over 70+ undetected & powerful mods
+Best gorila tag mod menu, has over 70+ undetected & overpowered mods
 
 Join the discord for more updates -> https://discord.gg/pyU84bn2YP
 
