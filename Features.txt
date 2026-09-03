@@ -1,5 +1,6 @@
-   Vanish Menu V1.0
---------------------------
+
+           VANISH MENU
+            Features
 
 ▸ ROOM
   › Create Public Room
@@ -10,7 +11,13 @@
   › Reconnect
   › Cancel Reconnect
   › Disconnect
-  › Connect US / US West / EU
+  › Connect US
+  › Connect US West
+  › Connect EU
+  › Connect Asia
+  › Connect Japan
+  › Connect Australia
+  › Connect South America
 
 ▸ MOVEMENT
   › Platforms
@@ -39,7 +46,7 @@
   › Tag Aura
   › Grip Tag Aura
   › Tag Reach
-  › Abuse Lobby
+  › Tag Bot
 
 ▸ WORLD
   › Disable Wind Barriers
@@ -47,17 +54,34 @@
   › Disable Quit Box
 
 ▸ TELEPORTS
-  › Forest  •  City  •  Canyons  •  Clouds  •  Caves
-  › Beach  •  Mountains  •  Basement  •  Metropolis
-  › Arcade  •  Critters  •  Skate Park  •  Monke Blocks Map
-  › Rotating  •  Bayou  •  Virtual Stump  •  Lava Forest
+  › Forest
+  › City
+  › Canyons
+  › Clouds
+  › Caves
+  › Beach
+  › Mountains
+  › Basement
+  › Metropolis
+  › Arcade
+  › Critters
+  › Skate Park
+  › Monke Blocks Map
+  › Rotating
+  › Bayou
+  › Virtual Stump
+  › Lava Forest
   › Teleport to Random
   › Teleport Gun
-  
-  ▸ SAFETY
+
+▸ SAFETY
   › Anti Kick
   › Anti RPC Ban
+  › Anti Exploit
+  › Anti Crash
+  › Anti Ban Crash
   › Anti Report
+  › Oculus Anti Report
   › Oculus Menu
   › No Finger Movement
   › Bypass Checkers
@@ -80,6 +104,8 @@
   › Bone ESP
   › Capsule ESP
   › Beacon ESP
+  › Cylinder ESP
+  › Diamond ESP
   › VRChat Nametags
   › Hidden on Camera
   › Name Tags
@@ -90,7 +116,10 @@
   › FPS Boost
   › Remove Leaves
   › Clear Weather
-  › Morning Time  •  Day Time  •  Evening Time  •  Night Time
+  › Morning Time
+  › Day Time
+  › Evening Time
+  › Night Time
 
 ▸ MACROS
   › Record
@@ -99,7 +128,8 @@
   › Macro Framestepper
   › Midpoint Macros
   › Direction Based Macros
-  › Change / Decrease Macro Playback Range
+  › Change Macro Playback Range
+  › Decrease Macro Playback Range
   › Enable All Macros
   › Disable All Macros
   › (your saved macros show here)
@@ -114,15 +144,14 @@
   › Mirror Player
   › Annoy Player
   › Bully Player
-  › Fling Player
+  › Tag Player
   › Mod Checker
-  
-  ▸ FUN
+
+▸ FUN
   › Boop
   › Upside Down Head
   › Spaz Body
   › Body Tracking
-  › Spider Crawl
   › Flip
   › Lay On Stomach
   › Grab Rig
@@ -151,40 +180,68 @@
   › Orbit Hoverboards
   › Hoverboard Gun
   › Long Arms
+  › Shadow Clone
 
 ▸ OVERPOWERED
   › Lag Type
   › Lag Gun
   › Lag All
-  › Mute All
   › Deafen All
+  › SS Mute All
+  › Earape All
   › Deafen Gun
   › Annoy All
   › Bully All
+  › Water Barrage
+  › Yellow Screen Gun
+
+▸ BARREL
   › Barrel Punch
   › Barrel Gun
-  › Barrel Fling Gun / All
-  › Barrel Push Gun / All
-  › Barrel Bring Gun / All
-  › Barrel Kick Gun / All
-  › Barrel Crash Gun / All
-  › Barrel Obliterate Gun / All
-  › Barrel City Kick Gun / All
+  › Barrel Fling Gun
+  › Barrel Fling All
+  › Barrel Push Gun
+  › Barrel Push All
+  › Barrel Bring Gun
+  › Barrel Bring All
+  › Barrel Kick Gun
+  › Barrel Kick All
+  › Barrel Crash Gun
+  › Barrel Crash All
+  › Barrel Obliterate Gun
+  › Barrel Obliterate All
+  › Barrel City Kick Gun
+  › Barrel City Kick All
+
+▸ PARTY
+  › Instant Party
+  › Kick Party Members V1
+  › Kick Party Members V2
 
 ▸ MASTER
-  › Grey Screen All / Gun
-  › Spaz Screen All / Gun
-  › Virtual Stump Crash Gun / All
-  › Untag Self / All / Gun
+  › Grey Screen All
+  › Spaz Screen All
+  › Grey Screen Gun
+  › Fix Screen Gun
+  › Spaz Screen Gun
+  › Virtual Stump Crash Gun
+  › Virtual Stump Crash All
+  › Untag Self
   › Infection To Tag
   › Tag To Infection
-  › Spam Tag Self / Gun / All
+  › Untag All
+  › Untag Gun
+  › Spam Tag Self
+  › Spam Tag Gun
+  › Spam Tag All
   › Tag Lag Gun
   › Anti Tag
-  › Rock Gun  •  Aura  •  On Touch  •  All  •  Self
-  › Slow Gun  •  Aura  •  On Touch  •  All  •  Self
-  › Vibrate Gun  •  Aura  •  On Touch  •  All  •  Self
-  
+  › Rock Gun  •  Rock Aura  •  Rock On Touch  •  Rock All  •  Rock Self
+  › Slow Gun  •  Slow Aura  •  Slow On Touch  •  Slow All  •  Slow Self
+  › Vibrate Gun  •  Vibrate Aura  •  Vibrate On Touch  •  Vibrate All  •  Vibrate Self
+  › Red All
+  › Blue All
+
 ▸ SUPER INFECTION
   › Unlock All Gadgets
   › Unlock Full Tree
@@ -208,13 +265,25 @@
   › Teleport Gadgets To Me
   › Spawn Unlocked Gadgets
   › Delete All Gadgets
-  › Spawn Yoyo / Platforms / Charge Blaster / Mega Blaster / Long Arms / Extendo Stilts / Wrist Jets
+  › Spawn Yoyo
+  › Spawn Platforms
+  › Spawn Charge Blaster
+  › Spawn Mega Blaster
+  › Spawn Long Arms
+  › Spawn Extendo Stilts
+  › Spawn Wrist Jets
   › Yoyo Gun
   › Platform Gun
   › Bouncy Platform Gun
-  › Charge / Mega Charge / Weak / Long Blaster Gun
+  › Charge Blaster Gun
+  › Mega Charge Blaster Gun
+  › Weak Blaster Gun
+  › Long Blaster Gun
   › Blast Lobber Gun
-  › Stilt Extendo / Fixed / Long / Short Gun
+  › Stilt Extendo Gun
+  › Stilt Fixed Gun
+  › Stilt Long Gun
+  › Stilt Short Gun
   › Turkey Gun
   › Propellor Gun
   › Weird Gear Gun
@@ -230,7 +299,8 @@
   › Gadget Hollow Sphere Small / Medium / Large
   › Flashing Sphere
   › Laser Eyes
-  › Crash All / Gun
+  › Crash All
+  › Crash Gun
   › Steal Gadget Gun
   › Knockback Gun
   › Float Gun
@@ -241,7 +311,7 @@
   › Flower  •  Crate  •  Barrel
   › Bug Enemy  •  Large Bug Enemy
   › Ranged Enemy  •  Chaser Enemy
-  › Armored Ranged  •  Armored Chaser
+  › Armored Ranged Enemy  •  Armored Chaser Enemy
   › Random Entity
   Other
   › Rain Entities
@@ -250,11 +320,14 @@
   › Text Gun
   › Draw Gun
   › Destroy Entity Gun
-  › Freeze Gun / All
-  › Crash Gun / All
-  
-  ▸ MONKE BLOCKS
-  › Get / Remove Builder Watch
+  › Freeze Gun
+  › Freeze All
+  › Crash Gun
+  › Crash All
+
+▸ MONKE BLOCKS
+  › Get Builder Watch
+  › Remove Builder Watch
   › Noclip Building
   › Overlap Building
   › Small Building
@@ -263,9 +336,11 @@
   › Unlimited Building
   › Zero Gravity Blocks
   › Random Block Type
-  › No Random Position / Rotation Grab
+  › No Random Position Grab
+  › No Random Rotation Grab
   › Change Block Delay
-  › Grab All Nearby / Selected Blocks
+  › Grab All Nearby Blocks
+  › Grab All Selected Blocks
   › Massive Block (M)
   › Select Block Gun
   › Copy Block Info Gun
@@ -273,36 +348,62 @@
   › Grab Building Blocks
   › Building Block Minigun
   › Building Block Gun
-  › Orbit / Rain / Fountain / Aura
+  › Orbit Building Blocks
+  › Rain Building Blocks
+  › Building Block Fountain
+  › Building Block Aura
   › Building Block Text Gun
-  › Place / Destroy Building Block Gun
+  › Place Building Block Gun
+  › Destroy Building Block Gun
   › Destroy Building Blocks
-  › Save / Load Builder Table Data
+  › Save Builder Table Data
+  › Load Builder Table Data
   › Block Anti Report (M)
-  › Block Draw / Build / Tower Gun (M)
-  › Block Freeze Gun / All (M)
+  › Block Draw Gun (M)
+  › Block Build Gun (M)
+  › Block Tower Gun (M)
+  › Block Freeze Gun (M)
+  › Block Freeze All (M)
   › Block Float Gun (M)
-  › Building Block Fling / Bring / Push Gun (M)
-  › Building Block Crash Gun / All (M)
+  › Building Block Fling Gun (M)
+  › Building Block Bring Gun (M)
+  › Building Block Push Gun (M)
+  › Building Block Crash Gun (M)
+  › Building Block Crash All (M)
 
 ▸ SETTINGS
   Menu
-  › Right Hand Menu  •  Menu Theme  •  Change Aim Type
-  › Notifications  •  Autosave  •  Disconnect Button
-  › Serversided Button Sounds  •  Change Button Sound / Volume
+  › Right Hand Menu
+  › Menu Theme
+  › Change Aim Type
+  › Notifications
+  › Autosave
+  › Disconnect Button
+  › Serversided Button Sounds
+  › Change Button Sound
+  › Change Button Volume
   Movement
-  › Change Platform Type / Shape
+  › Change Platform Type
+  › Change Platform Shape
   › Non-Sticky Platforms
-  › Change Fly Speed  •  Speed Boost Amount  •  Pull Mod Power
-  › Left Hand Wall Walk  •  Change Wall Walk Strength
+  › Change Fly Speed
+  › Change Speed Boost Amount
+  › Change Pull Mod Power
+  › Left Hand Wall Walk
+  › Change Wall Walk Strength
   Tag
-  › Fast Tag  •  Change Tag Aura Range  •  Change Tag Reach Distance
+  › Fast Tag
+  › Change Tag Aura Range
+  › Change Tag Reach Distance
   Safety
-  › Change Anti Report Distance  •  Visualize Anti Report
-  › Change FPS / Ping Spoof Value  •  Change Spoof Platform
+  › Change Anti Report Distance
+  › Visualize Anti Report
+  › Change FPS Spoof Value
+  › Change Ping Spoof Value
+  › Change Spoof Platform
   Overpowered
-  › Change Lag Power  •  Change Lag Type
+  › Change Lag Power
+  › Change Lag Type
   Fun
   › Change Fast Swim Speed
-  
-  
+
