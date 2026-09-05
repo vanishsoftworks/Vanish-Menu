@@ -26,6 +26,8 @@
   › Reverse Velocity
   › Trigger Fly
   › Noclip Fly
+  › Up and Down
+  › Zero Gravity
   › Noclip
   › Ghost Monkey
   › Invisible
@@ -36,7 +38,7 @@
   › Spider Man
   › Ender Pearl
   › Wall Walk
-  › Pc Fly
+  › WASD Fly
   › Pc Button Click
 
 ▸ TAG
@@ -74,6 +76,9 @@
   › Teleport to Random
   › Teleport Gun
 
+
+════════════════  2 / 5  ════════════════
+
 ▸ SAFETY
   › Anti Kick
   › Anti RPC Ban
@@ -82,6 +87,7 @@
   › Anti Ban Crash
   › Anti Report
   › Oculus Anti Report
+  › Visualize Anti Report
   › Oculus Menu
   › No Finger Movement
   › Bypass Checkers
@@ -106,6 +112,9 @@
   › Beacon ESP
   › Cylinder ESP
   › Diamond ESP
+  › Box ESP
+  › Box ESP Style
+  › Tracers
   › VRChat Nametags
   › Hidden on Camera
   › Name Tags
@@ -147,6 +156,9 @@
   › Tag Player
   › Mod Checker
 
+
+════════════════  3 / 5  ════════════════
+
 ▸ FUN
   › Boop
   › Upside Down Head
@@ -180,20 +192,23 @@
   › Orbit Hoverboards
   › Hoverboard Gun
   › Long Arms
-  › Shadow Clone
 
 ▸ OVERPOWERED
   › Lag Type
   › Lag Gun
   › Lag All
+  › Lag Master
+  › Lag Aura
+  › Lag Aura (G/T)
+  › Fling Gun
+  › Fling All
+  › Destroy Gun
+  › Destroy All
   › Deafen All
-  › SS Mute All
-  › Earape All
   › Deafen Gun
   › Annoy All
   › Bully All
   › Water Barrage
-  › Yellow Screen Gun
 
 ▸ BARREL
   › Barrel Punch
@@ -241,6 +256,9 @@
   › Vibrate Gun  •  Vibrate Aura  •  Vibrate On Touch  •  Vibrate All  •  Vibrate Self
   › Red All
   › Blue All
+
+
+════════════════  4 / 5  ════════════════
 
 ▸ SUPER INFECTION
   › Unlock All Gadgets
@@ -325,6 +343,9 @@
   › Crash Gun
   › Crash All
 
+
+════════════════  5 / 5  ════════════════
+
 ▸ MONKE BLOCKS
   › Get Builder Watch
   › Remove Builder Watch
@@ -397,7 +418,6 @@
   › Change Tag Reach Distance
   Safety
   › Change Anti Report Distance
-  › Visualize Anti Report
   › Change FPS Spoof Value
   › Change Ping Spoof Value
   › Change Spoof Platform
